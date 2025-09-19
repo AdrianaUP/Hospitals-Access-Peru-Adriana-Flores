@@ -3,3 +3,10 @@ geopandas
 folium
 pandas
 matplotlib
+pandas
+geopandas
+shapely
+folium
+streamlit-folium
+seaborn
+numpy
